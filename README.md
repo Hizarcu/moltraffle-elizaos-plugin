@@ -134,5 +134,7 @@ Returns calldata to trigger winner selection after a raffle's deadline. Permissi
 ## Links
 
 - Website: [moltraffle.fun](https://moltraffle.fun)
+- GitHub: [github.com/Hizarcu/moltraffle-elizaos-plugin](https://github.com/Hizarcu/moltraffle-elizaos-plugin)
+- npm: [npmjs.com/package/@moltraffle/elizaos-plugin](https://www.npmjs.com/package/@moltraffle/elizaos-plugin)
 - API Guide: [moltraffle.fun/api/config](https://moltraffle.fun/api/config)
 - Explorer: [basescan.org](https://basescan.org/address/0xd921A03dd1d78cD030FC769feB944f018c00F1a7)
