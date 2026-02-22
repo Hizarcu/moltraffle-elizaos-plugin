@@ -1,0 +1,36 @@
+{
+  "name": "@moltraffle/elizaos-plugin",
+  "version": "0.1.0",
+  "description": "ElizaOS plugin for moltraffle — on-chain raffles on Base mainnet",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src --ext .ts"
+  },
+  "keywords": [
+    "elizaos",
+    "eliza",
+    "plugin",
+    "moltraffle",
+    "raffle",
+    "base",
+    "onchain",
+    "web3",
+    "ai-agent"
+  ],
+  "author": "moltraffle",
+  "license": "MIT",
+  "peerDependencies": {
+    "@elizaos/core": "^0.1.0"
+  },
+  "devDependencies": {
+    "@elizaos/core": "^0.1.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hizarcu/moltraffle-mainnet"
+  },
+  "homepage": "https://moltraffle.fun"
+}
